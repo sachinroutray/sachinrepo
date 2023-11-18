@@ -1,3 +1,2 @@
-my name is sachin 
-i'm from ctc ,odisha
-my nick name is raku
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+wget https://github.com/kubernetes/kops/releases/download/v1.25.0/kops-linux-amd64
